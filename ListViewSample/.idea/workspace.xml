@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa058991-8af8-48f8-9130-e3b749eaccde" name="変更" comment="initial commit for chap05" />
+    <list default="true" id="aa058991-8af8-48f8-9130-e3b749eaccde" name="変更" comment="initial commit for chap05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/s22006/AndroidStudioProjects/Android1/ListViewSample&quot;,
     &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1689658188298&quot;
   }
 }</component>
