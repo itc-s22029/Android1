@@ -9,13 +9,57 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2d99042-14c4-445e-b5ae-8419ba3f2cff" name="変更" comment="4章終わり。ViewBingingを使うように変更した" />
+    <list default="true" id="b2d99042-14c4-445e-b5ae-8419ba3f2cff" name="変更" comment="4章終わり。ViewBingingを使うように変更した">
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/androidTest/java/jp/ac/it_college/std/s22006/constraintlayoutsample/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/java/jp/ac/it_college/std/s22006/constraintlayoutsample/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/app/src/test/java/jp/ac/it_college/std/s22006/constraintlayoutsample/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstraintLayoutSample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/s22006/.android/avd/Pixel_6_API_34.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/s22006/.android/avd/Pixel_6_API_33.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -101,9 +145,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
