@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'jp.ac.it_college.std.s22029.viewsample'
+    namespace 'jp.ac.it_college.std.s22006.hellosample'
     compileSdk 33
 
     defaultConfig {
-        applicationId "jp.ac.it_college.std.s22029.viewsample"
+        applicationId "jp.ac.it_college.std.s22006.hellosample"
         minSdk 29
         targetSdk 33
         versionCode 1
@@ -30,7 +30,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
