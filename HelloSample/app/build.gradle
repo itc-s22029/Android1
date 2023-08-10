@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'jp.ac.it_college.std.s22029.hellosample'
+    namespace 'jp.ac.it_college.std.s22006.hellosample'
     compileSdk 33
 
     defaultConfig {

@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:autofillHints="personName"
-        android:inputType="textPersonName"
+        android:inputType="text|textPersonName"
         android:maxWidth="488dp"
         android:minHeight="48dp" />
 

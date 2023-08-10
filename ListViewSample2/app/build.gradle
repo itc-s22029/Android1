@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'jp.ac.it_college.std.s22029.listviewsample2'
+    namespace 'jp.ac.it_college.std.s22006.listviewsample'
     compileSdk 33
 
     defaultConfig {
-        applicationId "jp.ac.it_college.std.s22029.listviewsample2"
+        applicationId "jp.ac.it_college.std.s22006.listviewsample"
         minSdk 29
         targetSdk 33
         versionCode 1
